@@ -1,0 +1,11 @@
+measure_name,measure_category,measure_unit
+Attendances,Demand,Count
+Emergency presentations,Demand,Count
+Percentage of patients starting treatment on time,Percentage,Percentage
+Percentage of patients leaving ED within four hours,Percentage,Percentage
+Median time from arrival at ED to leaving,Time,Minutes
+90th percentile time from arrival at ED to leaving,Time,Minutes
+Arrivals by ambulance,Demand,Count
+Percentage of patients transferred from paramedics to ED staff within 30 minutes,Percentage,Percentage
+Median time to transfer care from paramedics to ED staff,Time,Minutes
+90th percentile time to transfer care from paramedics to ED staff,Time,Minutes

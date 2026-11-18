@@ -1,0 +1,105 @@
+entity_id,entity_name,entity_level,peer_group
+A1,Principal referral,Peer Group Aggregate,Principal referral
+A2,Paediatric specialist,Peer Group Aggregate,Paediatric specialist
+A202,Canterbury Hospital,Hospital,Major
+A207,The Children's Hospital at Westmead,Hospital,Paediatric specialist
+A208,Royal Prince Alfred Hospital,Hospital,Principal referral
+A212,St Vincent's Hospital Sydney,Hospital,Principal referral
+A233,Sydney Hospital and Sydney Eye Hospital,Hospital,Ungrouped acute - tertiary referral
+A237,Concord Repatriation General Hospital,Hospital,Principal referral
+A3,Ungrouped acute - tertiary referral,Peer Group Aggregate,Ungrouped acute - tertiary referral
+B,Major,Peer Group Aggregate,Major
+B202,Gosford Hospital,Hospital,Principal referral
+B206,Wyong Hospital,Hospital,Major
+B210,Hornsby Ku-ring-gai Hospital,Hospital,Major
+B212,Manly Hospital,Hospital,Major
+B214,Mona Vale Hospital,Hospital,Major
+B218,Royal North Shore Hospital,Hospital,Principal referral
+B224,Ryde Hospital,Hospital,District group 1
+B259,Northern Beaches Hospital,Hospital,Major
+C1,District group 1,Peer Group Aggregate,District group 1
+C2,District group 2,Peer Group Aggregate,District group 2
+C208,Prince of Wales Hospital,Hospital,Principal referral
+C213,St George Hospital,Hospital,Principal referral
+C214,Sutherland Hospital,Hospital,Major
+C238,"Sydney Children's Hospital, Randwick",Hospital,Paediatric specialist
+CCLHD,Central Coast Local Health District,District/Network,
+D201,Auburn Hospital,Hospital,District group 1
+D203,Blacktown Hospital,Hospital,Principal referral
+D204,Blue Mountains District ANZAC Memorial Hospital,Hospital,District group 1
+D205,Camden Hospital,Hospital,District group 2
+D206,Fairfield Hospital,Hospital,Major
+D209,Liverpool Hospital,Hospital,Principal referral
+D210,Nepean Hospital,Hospital,Principal referral
+D215,Campbelltown Hospital,Hospital,Principal referral
+D218,Mount Druitt Hospital,Hospital,District group 1
+D224,Westmead Hospital,Hospital,Principal referral
+D227,Bankstown-Lidcombe Hospital,Hospital,Principal referral
+D311,Hawkesbury District Hospital,Hospital,District group 1
+FWLHD,Far West Local Health District,District/Network,
+H201,Ballina District Hospital,Hospital,District group 2
+H206,Casino & District Memorial Hospital,Hospital,District group 2
+H208,Coffs Harbour Health Campus,Hospital,Major
+H210,Grafton Base Hospital,Hospital,District group 1
+H212,Kempsey District Hospital,Hospital,District group 1
+H214,Lismore Base Hospital,Hospital,Major
+H216,Macksville District Hospital,Hospital,District group 2
+H217,Maclean District Hospital,Hospital,District group 2
+H221,Murwillumbah District Hospital,Hospital,District group 1
+H223,Tweed Valley Hospital,Hospital,Major
+H272,Port Macquarie Base Hospital,Hospital,Major
+H293,Byron Central Hospital,Hospital,District group 2
+HNELHD,Hunter New England Local Health District,District/Network,
+ISLHD,Illawarra Shoalhaven Local Health District,District/Network,
+J201,Armidale Hospital,Hospital,District group 1
+J206,Gunnedah Hospital,Hospital,District group 2
+J208,Inverell Hospital,Hospital,District group 2
+J212,Moree Hospital,Hospital,District group 2
+J213,Narrabri Hospital,Hospital,District group 2
+J216,Tamworth Hospital,Hospital,Major
+J225,Manning Hospital,Hospital,Major
+K211,Dubbo Hospital,Hospital,Major
+K216,Mudgee Health Service,Hospital,District group 2
+L201,Bathurst Health Service,Hospital,District group 1
+L206,Cowra Health Service,Hospital,District group 2
+L209,Lachlan Health Service - Forbes,Hospital,District group 2
+L213,Lithgow Hospital,Hospital,District group 2
+L216,Orange Health Service,Hospital,Major
+M207,Deniliquin Health Service,Hospital,District group 2
+MLHD,Murrumbidgee Local Health District,District/Network,
+MNCLHD,Mid North Coast Local Health District,District/Network,
+N201,Batemans Bay Hospital and Health Service,Hospital,District group 2
+N202,South East Regional Hospital,Hospital,District group 1
+N206,Cooma Hospital and Health Service,Hospital,District group 2
+N209,Goulburn Base Hospital,Hospital,District group 1
+N211,Moruya Hospital and Health Service,Hospital,District group 1
+N215,Queanbeyan Hospital and Health Service,Hospital,District group 1
+N218,Young Health Service,Hospital,District group 2
+N219,Bowral and District Hospital,Hospital,District group 1
+NBMLHD,Nepean Blue Mountains Local Health District,District/Network,
+NNSWLHD,Northern NSW Local Health District,District/Network,
+NSLHD,Northern Sydney Local Health District,District/Network,
+NSW,NSW,Statewide,NSW
+P205,Milton Ulladulla Hospital,Hospital,District group 2
+P207,Shoalhaven District Memorial Hospital,Hospital,Major
+P208,Wollongong Hospital,Hospital,Principal referral
+P211,Shellharbour Hospital,Hospital,District group 1
+Q202,Cessnock Hospital,Hospital,District group 2
+Q205,Kurri Kurri Hospital,Hospital,District group 2
+Q206,Maitland Hospital,Hospital,Major
+Q209,Muswellbrook Hospital,Hospital,District group 2
+Q211,Calvary Mater Newcastle,Hospital,Major
+Q214,Belmont Hospital,Hospital,District group 1
+Q217,Singleton Hospital,Hospital,District group 2
+Q230,John Hunter Hospital,Hospital,Principal referral
+R205,Griffith Base Hospital,Hospital,District group 1
+R219,Wagga Wagga Base Hospital,Hospital,Major
+S201,Broken Hill Health Service,Hospital,District group 1
+SCHN,Sydney Children's Hospitals Network,District/Network,
+SESLHD,South Eastern Sydney Local Health District,District/Network,
+SNSWLHD,Southern NSW Local Health District,District/Network,
+SVHN,St Vincent's Health Network,District/Network,
+SWSLHD,South Western Sydney Local Health District,District/Network,
+SYDLHD,Sydney Local Health District,District/Network,
+WNSWLHD,Western NSW Local Health District,District/Network,
+WSLHD,Western Sydney Local Health District,District/Network,
