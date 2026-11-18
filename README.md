@@ -1,8 +1,15 @@
 # NSW Emergency Department | Performance Intelligence
 
 Interactive Power BI dashboard analysing quarterly emergency department performance across NSW hospitals from 2010 to 2026.
-** Key Snapshots from the Report **
-(2012.png)
+ ## Key Snapshots from the Report
+![Dashboard](2012.png)
+
+
+
+![Dashboard](2025.png)
+
+
+
 ![Dashboard](Page1.png)
 
 ▶ **[Watch the 60-second demo](https://youtu.be/_wXEwh_a2VA)**
@@ -44,6 +51,8 @@ This is an independent portfolio project and is not affiliated with or endorsed 
 
 ## Files
 
+- `2012.png`: Dashboard Snapshot for the year 2012 on the slicer preview
+- `2025.png`:  Dashboard Snapshot for the year 2025 on the slicer preview
 - `Page1.png`: Dashboard preview
 - `.pbix`: Full interactive Power BI report (open in Power BI Desktop)
 - `NSW_ED_Dashboard.pdf`: Static dashboard export
