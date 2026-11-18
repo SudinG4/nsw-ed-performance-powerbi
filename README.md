@@ -5,7 +5,7 @@ performance across NSW hospitals, [2010-2026].
 
 ![Dashboard](Page1.png)
 
-▶ [Watch the 60-second demo](YOUR_VIDEO_LINK)
+▶ [Watch the 60-second demo](https://youtu.be/_wXEwh_a2VA))
 
 ## The question
 How is ED demand changing, and are hospitals keeping up on waiting and
